@@ -14,16 +14,17 @@ class SyncController extends Controller
     public function actionMatrix(): void
     {
         $fields = new stdClass();
-        $fields->identifier = 'test123';
+        $fields->identifier = '1';
         $fields->settings = new stdClass();
         $fields->settings->title = 'Test 123';
         $fields->settings->slug = 'test-123';
+        $fields->settings->siteId = '1';
         $fields->settings->enabledOnCreate = true;
         $fields->settings->updateTitleAndSlug = true;
 
         CraftEntryController::updateOrCreateEntry(
             new CraftEntry(
-                'default',
+                'hours',
                 'identifier',
                 $fields,
                 self::getMatrixBlocks(),

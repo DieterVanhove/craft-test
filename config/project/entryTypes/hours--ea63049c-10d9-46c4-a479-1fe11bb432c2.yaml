@@ -58,9 +58,9 @@ fieldLayouts:
         name: Content
         uid: 129fe766-beb4-4dc2-ac6b-020e0a1e82b6
         userCondition: null
-handle: default
+handle: hours
 hasTitleField: true
-name: Default
+name: hours
 section: b8823e8b-261b-4150-8e28-8ddb3bed4b69 # hours
 showStatusField: true
 slugTranslationKeyFormat: null

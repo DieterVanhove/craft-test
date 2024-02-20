@@ -1,4 +1,4 @@
-dateModified: 1708425652
+dateModified: 1708428585
 email:
   fromEmail: dieter.vanhove@esign.eu
   fromName: craft-test
@@ -14,7 +14,7 @@ meta:
     962076ef-2619-4e4e-99de-112b0048d1ef: From # From
     b8823e8b-261b-4150-8e28-8ddb3bed4b69: hours # hours
     baaed9f4-0ff0-4660-8f46-20807f5d833c: to # to
-    ea63049c-10d9-46c4-a479-1fe11bb432c2: Default # Default
+    ea63049c-10d9-46c4-a479-1fe11bb432c2: hours # hours
 system:
   edition: solo
   live: true
