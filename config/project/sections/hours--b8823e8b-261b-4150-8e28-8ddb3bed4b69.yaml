@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: hours
+name: hours
+propagationMethod: all
+siteSettings:
+  0257756a-cad6-48c5-addf-93a059bda4cf: # craft-test
+    enabledByDefault: true
+    hasUrls: true
+    template: hours/_entry
+    uriFormat: 'hours/{slug}'
+type: channel

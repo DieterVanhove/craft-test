@@ -1,0 +1,19 @@
+columnSuffix: xpbyjpex
+contentColumnType: text
+fieldGroup: 7628b6a4-561b-444d-9276-f2d47aa317a1 # Common
+handle: identifier
+instructions: null
+name: identifier
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

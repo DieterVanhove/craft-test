@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 7628b6a4-561b-444d-9276-f2d47aa317a1 # Common
+handle: openingHours
+instructions: null
+name: 'Opening Hours'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_openinghours}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

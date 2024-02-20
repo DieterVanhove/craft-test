@@ -1,0 +1,78 @@
+field: 92eed38e-84b5-4eb5-ad88-7db8f09069e9 # Opening Hours
+fieldLayouts:
+  c553997e-a6f3-4a91-a953-cb86b02b5a4e:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 962076ef-2619-4e4e-99de-112b0048d1ef # From
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: eadb78c6-228d-402c-89d0-72818746e6cd
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: baaed9f4-0ff0-4660-8f46-20807f5d833c # to
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 639d1461-ef65-4879-ba74-d53c32e7c95d
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: bc042e97-60a0-4a49-95fa-279382358dfd
+        userCondition: null
+fields:
+  962076ef-2619-4e4e-99de-112b0048d1ef: # From
+    columnSuffix: imhndpas
+    contentColumnType: text
+    fieldGroup: null
+    handle: from
+    instructions: null
+    name: From
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  baaed9f4-0ff0-4660-8f46-20807f5d833c: # to
+    columnSuffix: ciagkzjj
+    contentColumnType: text
+    fieldGroup: null
+    handle: to
+    instructions: null
+    name: to
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: block
+name: block
+sortOrder: 1
